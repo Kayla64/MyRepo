@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author zaria
+ *
+ */
+module gitProject {
+}
